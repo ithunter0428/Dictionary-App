@@ -1,6 +1,6 @@
 # How to Run the Project
 ```
-    yarn install
+    yarn
     truffle migrate
     yarn start
 ```
